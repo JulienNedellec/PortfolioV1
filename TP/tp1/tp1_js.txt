@@ -1,0 +1,24 @@
+*********************************************************
+*********************************************************
+******************Ajout Javascript***********************
+
+//*Double Clic sur le Logo :
+
+Lorsqu'il y a un double clic sur la div avec l'id logo, un span avec le texte "Logo double cliqué !"
+il doit apparaître dans la div avec la classe .banniere.
+Le texte devra être en gras.
+
+//*Cacher/Reafficher l'iframe :
+
+Lorsqu'il y a un clic sur le paragraphe avec la classe .article-video p (le paragraphe "Cacher contenu")
+l'iframe juste en dessous doit être cachée en utilisant display: none;
+Un deuxième clic doit afficher à nouveau l'iframe.
+
+//*Changement de Couleur sur le survol :
+
+Lorsque la souris survole chaque élément
+dans la navigation (nav)
+et dans le pied de page (footer),
+le fond de l'élément
+doit changer de couleur en #00BFFF.
+Une fois que la souris ne survole plus l'élément, il doit revenir à sa couleur d'origine.

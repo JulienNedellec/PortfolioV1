@@ -1,0 +1,36 @@
+
+		***************************************************
+		**** JEU DU MORPION * ÉVALUATION DU 31/07/2023 ****
+		***************************************************
+
+		   ╔════════════════╗
+		   ║  JOUEUR 1 : X  ║
+		   ║  JOUEUR 2 : O  ║
+		   ╚════════════════╝
+
+// TODO 1. Vérifier si numeroTour est un nombre pair (oui : retourner 2 / sinon retourner 1)
+// TODO 2.1. Vérifier si au moins une des lignes a été complétée par une croix 'X'
+// TODO 2.2. Vérifier si au moins une des lignes a été complétée par un rond 'O'
+// TODO 2.3. Vérifier si au moins une des colonnes a été complétée par une croix 'X'
+// TODO 2.4. Vérifier si au moins une des colonnes a été complétée par un rond 'O'	
+// TODO 2.5. Vérifier si au moins une des diagonales a été complétée par une croix 'X'	
+// TODO 2.6. Vérifier si au moins une des diagonales a été complétée par un rond 'O'
+// TODO 3. Affecte une valeur à l'élément de la grille dont la position est (ligne;colonne)		
+// TODO 4. Affecter un rond 'X' à l'aide de la méthode affecterValeur()
+// TODO 5. Affecter un rond 'O' à l'aide de la méthode affecterValeur()	
+// TODO 6. Vérifie si une case est occupée par une croix 'X' ou un rond 'O'
+// TODO 7. Ajouter les deux cas possibles du switch	
+
+
+
+	
+	
+	
+	
+		
+		
+	
+
+		
+		
+				

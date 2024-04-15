@@ -1,0 +1,37 @@
+************************************************
+**********************  TP1  *******************
+************************************************
+
+Créez un fichier tp1.html faisant appel à un fichier tp1.css.
+Voici les détails à prendre en compte pour certains des éléments de l'exercice:
+
+PAGE :
+fond rgb(240,240,240) - texte blanc
+
+CONTENEUR :
+autocentré - 960px de large - bordure 2px rgb(150,150,150)
+
+LOGO :
+300px de large - 120px de haut - fond: #6495ED
+
+MENU :
+50px de haut - Couleurs : #87CEFA et #00BFFF
+
+COLONNE DE GAUCHE : 
+fond : rgb(240,240,240) - texte : rgb(150,150,150) - largeur 300px
+
+COLONNE A, B, C, D :
+hauteur : 100px - fond : rgb(255,255,255) - marges exterieures : 20px
+
+CONTENU :
+Vidéo intégrée
+Se rendre sur le site de plateforme video youtube, y selectionner une video de votre choix.
+Cliquez sur l'onglet"partager" placé sous la vidéo puis le bouton "intégrer".
+Copiez puis collez la balise <iframe> proposée vers l'emplacement souhaité dans votre code après avoir entré les paramètres de votre choix.
+
+FOOTER :
+hauteur : 80px - Couleurs : #87CEFA et #00BFFF
+
+DECOUVRIR : 
+la hauteur de ligne sur un bloc peut permettre de définir le placement en hauteur d'un texte dans ce bloc lorsque celui ci n'excède pas une ligne.
+Essayez d'entrer la propriété "line-height: XXpx;" dans votre css en remplacant XX par une valeur, testez différentes valeurs.

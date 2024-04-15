@@ -1,0 +1,35 @@
+************************************************
+**********************  TP2  *******************
+************************************************
+
+Créez un fichier tp2.html faisant appel à un fichier tp2.css.
+Voici les détails à prendre en compte pour certains des éléments de l'exercice:
+
+PAGE :
+fond rgb(100,100,100) - texte blanc - police à bâton
+
+HEADER :
+fond : #228B22
+
+CONTENEUR dans le HEADER, dans le contenu et le dans le FOOTER :
+autocentré - largeur : 80% de son parent
+
+LOGO :
+largeur : 25% - hauteur : 120px - couleur : #3CB371
+
+MENU :
+largeur : 75% - couleurs : #32CD32 et #9ACD32
+
+BLOCS A, B, C et D :
+fond : rgb(200,200,200) - largeur : 46% - hauteur 100px - marges exterieures : 2%
+
+CONTENU :
+Carte GoogleMap intégrée:
+Se rendre sur le site https://www.google.fr/maps, y selectionner une adresse de votre choix.
+Cliquez sur le bouton "partager" du panneau latéral puis le bouton "intégrer une carte".
+Copiez puis collez la balise <iframe> proposée à l'emplacement souhaité dans votre code après avoir entré les paramètres de votre choix.
+
+Vous pouvez parametrer la taille ce cet iframe via CSS ou dans l'attribut HTML width="".
+
+FOOTER :
+hauteur : 80px - couleurs : #32CD32 et #9ACD32

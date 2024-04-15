@@ -1,0 +1,81 @@
+body{
+   background-color: rgb(240,240,240);
+   color: #ffffff;
+   text-align: center;
+   text-transform: uppercase;
+   font-weight: bold;
+}
+
+#conteneur{
+   width: 960px;
+   border: 2px solid rgb(150,150,150);
+   /* hauteur minimale */
+   min-height: 200px;
+   margin: 20px auto;
+}
+.flexbox{
+   display: flex;
+}
+.logo{
+   width: 300px;
+   height: 120px;
+   background-color:#6495ED;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.banniere{
+   width: 660px;
+   height: 120px;
+   line-height: 120px;
+   background-color:#2e5fbc;
+}
+#menu div, #footer div{
+   height: 50px;
+   line-height: 50px;
+   flex: 1;
+   background-color: #87CEFA;
+}
+#menu .couleur2, #footer .couleur2{
+   background-color: #00BFFF;
+}
+#principal{
+   color: grey;
+   font-weight: normal;
+}
+
+#principal aside{
+   width: 300px;
+   background-color: rgb(240,240,240);
+}
+#principal article{
+   background-color: white;
+   width: 660px;
+}
+
+#footer div{
+   height: 80px;
+   line-height: 80px;
+}
+#colonne{
+   flex-direction: column;
+   height: 100px;
+   line-height: 100px;
+   background-color: rgb(255,255,255);
+   border: 1px solid;
+   margin: 20px;
+   justify-content: center;
+   
+}
+main article #contenu{
+   background-color: rgb(240,240,240);;
+   margin: 18px;
+   border: 2px solid;
+   padding: 18px;
+   
+}
+iframe{
+   height: 300px;
+   width: 500px;
+   padding: 40px;
+}

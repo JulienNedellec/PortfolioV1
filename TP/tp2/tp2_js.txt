@@ -1,0 +1,20 @@
+******************************************************************************************************************
+******************************************************************************************************************
+******************************************Exercice JavaScript*****************************************************
+
+
+
+
+//* 1 . je clique sur "menu 1" : le texte suivant apparait dans le "BLOC A" -> "Le bloc A est maintenant rempli !"
+			
+			
+//* 2 . je survole "menu 2" : le contenu de "BLOC B" est remplacé par l'image suivante : <img src="https://www.pierre-giraud.com/wp-content/uploads/2019/08/jquery-cours.png" alt="mon image" style="width: 300px; margin-top: 15px;">
+			
+			
+//* 3 . je clique sur "menu 3" je fais apparaitre disparaitre la googlemap grace à classList.toggle (attention "menu3" n'a pas d'ID)  grace a la classe ".disparition" présente dans l'element <style> du <head>
+			
+			
+//* 4 . je double clique sur "menu 4" : "BLOC C" passe a une largeur de 66% et "BLOC D" a une largeur de 26% (au lieu de 46%/46%) 
+			
+			
+//* 5 . un double click sur "FOOTER 2"fait apparaitre une alert('Bye bye !') puis fait disparaitre le header, le #contenu et le footer.
